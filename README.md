@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arturs Kurbis
-- 👀 I’m interested in IT world like programming languages, AI, machine learning, cyber security, data science, data bases(PostgreSQL),linux(on Raspberry PI)
-- 🌱 I’m currently learning machine learning, cyber security, python, (for now im learning streamlit)
+- 👀
+- 🌱 
 - 💞️ 
 - 📫 How to reach me: Here is my email arturs.kurbis94@gmail.com 
 
